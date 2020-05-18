@@ -1,5 +1,9 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react
 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+I HAVE MODIFIED 'CRA' FROM IT'S ORIGINAL STATE TO PROVIDE SOMETHING MORE STERILE. ALL MINOR/REDUNDANT
+ADJUSTMENTS YOU WOULD TYPICALLY MAKE AFTER RUNNING CREATE-REACT-APP.
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 ## Available Scripts
 
 In the project directory, you can run:
